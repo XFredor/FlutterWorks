@@ -53,6 +53,7 @@ void main() {
               Image.network(
                 'https://picsum.photos/id/1018/1080/1080',
                 width: double.infinity,
+                height: 400,
                 fit: BoxFit.cover,
               ),
 
